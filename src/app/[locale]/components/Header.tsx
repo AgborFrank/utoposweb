@@ -260,7 +260,7 @@ export default function Header() {
               </a>
               <Link
                 href="https://app.uniswap.org/explore/tokens/polygon/0x0946C90058cE01d734B9e770FFCfD0C029F83709" target='_blank'
-                className="bg-purple-700 hover:bg-purple-800 transition-colors text-white py-2 px-5 rounded-full whitespace-nowrap font-semibold text-sm focus:outline-none focus-visible:ring-2 focus-visible:ring-purple-500"
+                className="bg-purple-700 hover:bg-purple-800 transition-colors text-white py-2 px-5 pulse-button rounded-full whitespace-nowrap font-semibold text-sm focus:outline-none focus-visible:ring-2 focus-visible:ring-purple-500"
               >
                 {t('account')}
               </Link>
