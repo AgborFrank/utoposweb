@@ -68,7 +68,7 @@ const PolygonPoSIcon = () => (
   
   const mainNavLinks = [
     { href: '/developers', label: 'about' },
-    { href: '/community', label: 'exchange' },
+    { href: '/exchange', label: 'exchange' },
     { href: '/zk-resources', label: 'support' },
     { href: '/blog', label: 'tokenomics' },
     { href: '/use-polygon', label: 'community', className: 'whitespace-nowrap' },
