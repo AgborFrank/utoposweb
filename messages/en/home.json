@@ -1,0 +1,153 @@
+{
+  "benefits": {
+    "title": "Benefits and Incentives to Members",
+    "desc": "Utopos offers strategic benefits for businesses, particularly for e-commerce and website owners. With ownership of Earth Token ($ERTH) anywhere in the city, business owners worldwide can establish both business and personal residency in globally.",
+    "cta": "Join Utopos Community"
+  },
+  "business": {
+    "title": "Futuristic City Design with Smart, Eco-Friendly Building Construction",
+    "desc": "The futuristic design of Utopos incorporates smart and eco-friendly building construction, featuring contemporary homes, apartment buildings, and offices as well as estates, university schools, retail and wholesale centers, and high-tech industrial parks. Special incentives are available for sustainable industrial development, including digital and real agriculture and solar farming.",
+    "desc_2": "To ensure efficient transportation throughout the city, Utopos will feature strategically placed autonomous electric vehicles and drones. Hyperloop technology will be used for fast and reliable transport, while the city will also have a planned airport/spaceport and several heliports, as well as multiple drone ports.",
+    "cta": "Learn more today"
+  },
+  "riderHome": {
+    "title": "Go Anywhere with Dropme",
+    
+    "desc": "Our easy-to-use ride-hailing service connects you with top-rated drivers, making it easy to get where you need to go. Order a ride now to get picked up in minutes, or book a Bolt ride in advance for your future travels.",
+    "cta": "Download Now",
+    "Possibilities": {
+      "delivery": "Delivery",
+      "delivery_desc": "Deliver documents, food, groceries, flowers and more. ",
+      "taxi": "Taxi",
+      "taxi_desc": "Book rides from within your city with Dropme",
+      "intercity": "Intercity",
+      "bike": "Bike",
+      "rent": "Rent",
+      "intercity_desc": "Book rides between cities with Dropme",
+      "bike_desc": "Find and book bikes to get the faster.",
+      "rent_desc": "Rent a vehicle with Dropme"
+    }
+  },
+   
+     "for_business": {
+       "title": "Expand Your Business Reach with Dropme",
+       "desc": "Connect with customers across the nation effortlessly.  Forget the hassles of limited sales – register your business on our platform today and start selling immediately!",
+       "cta": "Download Now",
+       "advantages": {
+        "title": "Grow your business",
+        "p": "Maximize your reach by tapping into our extensive network of riders and drivers. Whether you're a small business or a large enterprise, Dropme provides the tools you need to succeed.",
+         "delivery": "Deliver with us",
+         "delivery_desc": "Big or small items, fulfil your customers' orders seamlessly. ",
+         "payment": "Payments with us",
+         "payment_desc": "Simplify transactions with secure Dropme wallet cashless payments.",
+         "sell": "Sell with us", 
+         "sell_desc": "Become a Dropme merchant-partner and increase your reach."   
+       },
+       "users": {
+        "title": "Who can use Dropme for business?",
+         "restau": "Restaurant",
+         "restau_desc": "Create a restaurant listing and start selling food and beverages to customers.",
+         "supermarket": "Supermarket",
+         "supermarket_desc": "List your supermarket products and services to customers.",
+         "pharma": "Pharmacy", 
+         "pharma_desc": "List your pharmacy products and services to customers. " ,
+         "retail": "Retailer", 
+         "retail_desc": "List your store on Dropme and we'll help you sell your products."   
+       }
+     },
+   
+   
+   
+    
+  "businessTravel": {
+    "title": "Airport Pickup and Dropoff",
+    "desc": "We’re here to make your business travel experience easier. Our airport pickup and dropoff services are available at major airports nationwide. Our drivers are trained to pick up and drop off passengers at airports, and we’ll even provide you with a map of the airport to help you get where you need to go.",
+    "cta": "Learn more today",
+    "badge": "Dropme Business"
+  },
+  "Intercity": {
+    "title": "City to City Travel at your comfort",
+    "desc": "Discover the best rides when you travel from one city to another. Whether you're going from Buea to Limbe, Douala to Yaounde, or any other city, Dropme provides a range of quality options to choose from to ensure a safe and comfortable journey",
+    "cta":"Download Now",
+    "badge": "Intercity Travel"
+  },
+  "relocation": {
+    "title": "Lets help with your relocation plan",
+    "desc": "Discover KeKe or pickup trucks to assist you with your relocation plans. Explore our wide range of affordable options to effortlessly move your belongings across cities or within the same city. Whether you're moving to a new home, office, or any other location, Dropme has got you covered with reliable and efficient transportation solutions.",
+    "cta":"Download Now",
+    "badge": "Dropme Logistics"
+  },
+  "Taxi": {
+    "title": "Request a Cab Near you with Dropme",
+    "desc": "Request a cab near you with Dropme. Our taxi service is available in all major cities in Cameroon, and we’ll even provide you with a map of the city to help you get where you need to go.",
+    "cta":"Download Now",
+    "badge": "Request Taxi"
+  },
+  "become_boss": {
+    "title": "Be your own boss. Start driving and earning!",
+    "desc": "It takes just 2 minutes to submit your information.",
+    "cta":"Apply Online",
+    "badge": "Become A Driver"
+  },
+  "everything_app": {
+    "title": "Powering Every Moment in Cameroon",
+    "desc": "Thousands rely on Dropme to navigate their daily life, from bustling commutes to quiet errands, connecting every journey with ease and trust across the nation of Cameroon.",
+    "cta":"Download the app",
+    "badge": "Creating the everything app",
+    "more": {
+      "title": "Driving Cameroon's Sustainability Future",
+      "desc": "Dropme is committed to fostering lasting prosperity by empowering communities and revolutionizing mobility across Cameroon.",
+      "cta": "Get Started with Dropme",
+      "badge": "Building Cameroon's Mobility Hub"
+    }
+  },
+  "delivery": {
+    "title": "Deliver Package anywhere across Cameroon",
+    "desc": "Discover a more reliable and cost effective way to move your package with Dropme. Find the delivery services near you with just a click of a button.",
+    "cta":"Download the app",
+    "badge": "Dropme Logistics",
+    "packageTypes": {
+    "title": "What can I deliver with Dropme?",
+    "food": "Food",
+    "food_desc": "Deliver fresh meals, snacks, and beverages from your favorite restaurants and cafes.",
+    "document": "Documents",
+    "document_desc": "Send important papers, contracts, and files quickly and securely.",
+    "grocery": "Groceries",
+    "grocery_desc": "Get your daily essentials and groceries delivered right to your doorstep.",
+    "more": "More...",
+    "more_desc": "Explore additional delivery options for flowers, gifts, and other specialty items.",
+    "medicine": "Pharmacy Supply",
+    "medicine_desc": "Receive your prescription medications and health supplies with ease and reliability."
+  },
+  "action": {
+    "title": "Ways small businesses are using Dropme delivery",
+    "desc": "To deliver purchased items like cloths, shoes, baked treats, medical supplies, or food to local customers.",
+    "cta":"Apply Online",
+    "badge": "Dropme for Small Businesses"
+  }
+  },
+  "driver": {
+      "advantages": {
+       "title": "Why become a Dropme driver?",
+        "subtitle": "Enjoy flexibility, reliable earnings, and transparent payouts.",
+        "advantage1_title": "Drive and earn when you like",
+        "advantage1_desc": "Earn during evenings and weekends, or make more money by driving more frequently. It’s up to you.",
+        "advantage2_title": "A reliable source of income",
+        "advantage2_desc": "You’ll receive orders from our large network of riders anytime you’re online.",
+        "advantage3_title": "Daily payouts",
+        "advantage3_desc": "Receive your earnings at the end of each day. There are no hidden subscription fees and you’ll only pay commission on your earnings."
+      }
+    }, 
+    "community": {
+      "title": "Our Commitment to Safety",
+        "desc": "We are committed to creating a safe and welcoming environment for all members. By following these guidelines, we hope to foster a positive and inclusive community.",
+        "guidelines": {
+           "guideline1_title": "You control who sees your information",
+            "guideline1_desc": "Our app and backend systems employ best-in-class security frameworks that guard users’ accounts, transaction data, e-wallet, and other private information.",
+            "guideline2_title": "Every transaction is protected",
+            "guideline2_desc": "Our app features are continually strengthened and protected by the latest technology and our stringent processes, so users can do what they need with peace of mind.",
+            "guideline3_title": "A safer experience for all",
+            "guideline3_desc": "No consumer should have to feel unsafe while using any of our services. Dropme is always on standby to ensure a smooth and secure experience."
+        }
+    }
+}

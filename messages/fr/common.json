@@ -1,0 +1,13 @@
+{
+    "navigation": {
+      "ride": "Ride",
+      "drive": "Drive",
+      "deliver": "Delivery",
+      "forBusiness": "For Business",
+      "dropEat": "Drop Eat",
+      "aboutUs": "About Us",
+      "support": "Support",
+      "account": "Account",
+      "search": "Search"
+    }
+}

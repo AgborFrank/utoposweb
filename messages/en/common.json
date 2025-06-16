@@ -1,0 +1,26 @@
+{
+    "navigation": {
+      "about": "About",
+      "solution": "Solutions",
+      "token": "Token",
+      "exchange": "Exchange",
+      "tokenomics": "Tokenomics",
+      "contact": "Contact Us",
+      "support": "Support",
+      "account": "BUY $UTOP",
+      "community": "Community",
+      "android": "For Android",
+      "iphone" : "For iPhone"
+    },
+    "cookies": {
+      "title": "User Agreement",
+      "desc": "This website uses cookies to improve your experience. By continuing to use this website, you agree to our use of cookies.",
+      "accept": "Accept",
+      "reject": "Reject",
+      "manage": " Manage Preferences"
+    },
+    "about_banner": {
+      "title": "Powered by the Dropme Spirit, our mission is to propel Cameroon forward by unlocking economic opportunities and connecting communities through seamless mobility."
+    }
+    
+}
