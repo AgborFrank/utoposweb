@@ -33,12 +33,7 @@ body {
   background-color: #ffffff14;
   border: 1px solid #ffffff1f;
   border-radius: 12px;
-  grid-template-rows: auto;
-  grid-template-columns: 1fr minmax(32px, 32px);
-  grid-auto-columns: 1fr;
-  padding: 32px 24px;
-  transition: background-color .2s;
-  display: grid
+  
 ;
 }
 .img-reveal {

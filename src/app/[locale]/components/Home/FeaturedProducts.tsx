@@ -13,7 +13,7 @@ const productData = {
       subtitle:
         "The Utopos Token is a Fungible, collectible novelty token used for transactions within the city and worldwide. It supports cross bridge transactions across various blockchains like Polygon PoS and Solana",
       imageUrl: "/assets/img/object.png", // Using a more relevant placeholder
-      learnMoreUrl: "#",
+      learnMoreUrl: "https://app.uniswap.org/explore/tokens/polygon/0x0946C90058cE01d734B9e770FFCfD0C029F83709",
       badge: "Utopos Token",
     },
     {
@@ -28,14 +28,14 @@ const productData = {
       name: "DeFi Payment",
       subtitle: "Discover inter-city rides to get you anywhere across Cameroon",
       imageUrl: "/assets/img/pay.png",
-      learnMoreUrl: "#",
+      learnMoreUrl: "https://app.uniswap.org/explore/tokens/polygon/0x0946C90058cE01d734B9e770FFCfD0C029F83709",
     },
     {
       type: "other",
       name: "Virtual Gaming",
       subtitle: "Developing aworld’s premium site for hyper-realistic v-gamin",
       imageUrl: "/assets/img/game.png",
-      learnMoreUrl: "#",
+      learnMoreUrl: "https://app.uniswap.org/explore/tokens/polygon/0x0946C90058cE01d734B9e770FFCfD0C029F83709",
     },
     {
       type: "other",
@@ -43,7 +43,7 @@ const productData = {
       subtitle:
         "Utopos City provides 3D teleconferencing and a VR platform for freelancers, enhancing work in technical and creative fields.",
       imageUrl: "/assets/img/user.png",
-      learnMoreUrl: "#",
+      learnMoreUrl: "https://app.uniswap.org/explore/tokens/polygon/0x0946C90058cE01d734B9e770FFCfD0C029F83709",
     },
   ],
   "Layer 2 (Earth)": [
@@ -53,7 +53,7 @@ const productData = {
       subtitle:
         "Earth is a non-asset-backed, non-fungible token(NFT) compliant with the ERC-721 standard. Earth represents ownership of a fractional, digitized 99-year lease on the land underneath the City.",
       imageUrl: "https://placehold.co/800x600/f8f9fa/333?text=Xiaomi+TV",
-      learnMoreUrl: "#",
+      learnMoreUrl: "https://app.uniswap.org/explore/tokens/polygon/0x0946C90058cE01d734B9e770FFCfD0C029F83709",
       badge: "Earth Token",
     },
     {
@@ -61,14 +61,14 @@ const productData = {
       name: "Metaverse",
       subtitle: "Snapdragon® 8 Elite Mobile Platform",
       imageUrl: "https://placehold.co/400x400/f8f9fa/333?text=Xiaomi+15+Ultra",
-      learnMoreUrl: "#",
+      learnMoreUrl: "https://app.uniswap.org/explore/tokens/polygon/0x0946C90058cE01d734B9e770FFCfD0C029F83709",
     },
     {
       type: "other",
       name: "Earn Points & Rewards",
       subtitle: "Snapdragon® 8 Elite Mobile Platform",
       imageUrl: "https://placehold.co/400x400/f8f9fa/333?text=Xiaomi+15+Ultra",
-      learnMoreUrl: "#",
+      learnMoreUrl: "https://app.uniswap.org/explore/tokens/polygon/0x0946C90058cE01d734B9e770FFCfD0C029F83709",
     },
     {
       type: "other",
@@ -124,11 +124,11 @@ const FeaturedProducts: React.FC = () => {
                 role="tab"
                 aria-selected={activeTab === tabName}
                 className={`
-                  px-4 py-3 text-md text-center  transition-colors duration-200 focus:outline-none
+                  px-4 py-3 md:text-md text-sm text-center  transition-colors duration-200 focus:outline-none
                   ${
                     activeTab === tabName
-                      ? "bg-[#04BF68] text-black rounded-full border-b-2 font-bold border-[#04BF68]"
-                      : "text-gray-100 hover:text-gray-800 hover:border-gray-300 border-b-2 font-semibold border-transparent"
+                      ? "bg-[#04BF68] text-black rounded-full font-bold border-[#04BF68]"
+                      : "text-gray-100 hover:text-green-500 font-semibold border-transparent"
                   }
                 `}
               >
@@ -170,13 +170,13 @@ const FeaturedProducts: React.FC = () => {
                             }}
                           />
                         </div>
-                        <div className="w-full md:w-2/5 text-start p-8">
+                        <div className="w-full md:w-3/5 text-start p-8">
                           {mainProduct.badge && (
-                            <span className="inline-block bg-primary text-white text-xs font-bold px-3 py-1 rounded-full mb-4">
+                            <span className="inline-block bg-primary text-white text-sm font-semibold px-3 py-2 rounded-full mb-4">
                               {mainProduct.badge}
                             </span>
                           )}
-                          <h3 className="md:text-6xl text-[50px] leading-18 tracking-tight font-bold font-ibm md:mb-6 text-white">
+                          <h3 className="md:text-6xl text-[50px] leading-18 tracking-tight font-semibold font-ibm md:mb-6 text-white">
                             {mainProduct.name}
                           </h3>
                           <p className="text-gray-300 text-md mt-2 mb-6">

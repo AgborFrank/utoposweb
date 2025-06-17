@@ -13,21 +13,21 @@ const HeroSlider: React.FC = () => {
       subtitle: "Utopos is a project aimed at building futuristic cities powered by blockchain, AI, IoT, and VR technologies on a global scale.",
       desktopImageUrl: "/assets/slides/4.jpg",
       mobileImageUrl: "/assets/slides/4.jpg",
-      learnMoreUrl: "#"
+      learnMoreUrl: "https://app.uniswap.org/explore/tokens/polygon/0x0946C90058cE01d734B9e770FFCfD0C029F83709"
     },
     {
       title: "World's First Blockchain Powered Smart City",
       subtitle: "A 50,000-acre site is being developed as the world's first smart city powered by blockchain technology, with access to utilities like water and electricity.",
       desktopImageUrl: "/assets/slides/2.jpg",
       mobileImageUrl: "/assets/slides/2.jpg",
-      learnMoreUrl: "#"
+      learnMoreUrl: "https://app.uniswap.org/explore/tokens/polygon/0x0946C90058cE01d734B9e770FFCfD0C029F83709"
     },
     {
       title: "Futuristic, Eco-Friendly Building Construction",
       subtitle: "Utopos is a futuristic smart city with eco-friendly homes, apartments, offices, schools, retail, and high-tech industrial parks. It offers incentives for sustainable development, including digital agriculture and solar farming.",
       desktopImageUrl: "/assets/slides/2.png",
       mobileImageUrl: "/assets/slides/2.png",
-      learnMoreUrl: "#"
+      learnMoreUrl: "https://app.uniswap.org/explore/tokens/polygon/0x0946C90058cE01d734B9e770FFCfD0C029F83709"
     }
   ];
 
@@ -68,7 +68,7 @@ const HeroSlider: React.FC = () => {
               </picture>
               <div className="absolute inset-0 bg-gradient-to-r from-black/90 bg-opacity-80 bg-blend-saturation flex items-center justify-start ">
                 <div className="md:pl-30 text-start text-white  md:w-[650px] px-6 ">
-                  <h2 className="text-4xl md:text-5xl lg:text-5xl font-extrabold mb-3 whitespace-pre-wrap">
+                  <h2 className="text-4xl md:text-5xl lg:text-5xl font-semibold mb-3 whitespace-pre-wrap">
                     {slide.title}
                   </h2>
                   <p className="text-[14px] md:text-[16px] max-w-2xl mx-auto mb-8">
