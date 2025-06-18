@@ -68,7 +68,7 @@ const ContactUsSection: React.FC = () => {
           
         </div>
 
-        <div className="w-1/2">
+        <div className="md:w-1/2 w-full">
         <form className="space-y-6 bg-black/20 border border-white/15 p-6 rounded-3xl">
           {/* Name Input */}
           <div className="relative">
