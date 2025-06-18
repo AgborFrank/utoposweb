@@ -7,12 +7,18 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --primary: #d0c967;
+    --body-bg: #0a090d,
   }
 }
 
 /* Base Styles */
 body {
   font-family: var(--font-d-font), Arial, Helvetica, sans-serif;
+  background-color: #0a090d;
+    color: #fff;
+    letter-spacing: .4px;
+    font-size: 1rem;
+    line-height: 1.4;
 }
 
 /* Custom Classes */

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="646px" viewBox="0 0 1440 646" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>kaleidoscope-shapes</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1440" height="646"></rect>
+        <linearGradient x1="56.8280845%" y1="0%" x2="47.7255388%" y2="61.2917475%" id="linearGradient-3">
+            <stop stop-color="#FF396A" offset="0%"></stop>
+            <stop stop-color="#462DE0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-2.48949813e-15%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#462DE0" offset="0%"></stop>
+            <stop stop-color="#A73DD5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-2.48949813e-15%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#FF396A" offset="0%"></stop>
+            <stop stop-color="#A73DD5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-2.48949813e-15%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#FF396A" offset="0%"></stop>
+            <stop stop-color="#FFCA00" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-2.48949813e-15%" x2="50%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#FF396A" offset="0%"></stop>
+            <stop stop-color="#A73DD5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-2.48949813e-15%" x2="50%" y2="100%" id="linearGradient-8">
+            <stop stop-color="#FF396A" offset="0%"></stop>
+            <stop stop-color="#A73DD5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-2.48949813e-15%" x2="50%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#FF396A" offset="0%"></stop>
+            <stop stop-color="#FFCA00" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-2.48949813e-15%" x2="50%" y2="100%" id="linearGradient-10">
+            <stop stop-color="#462DE0" offset="0%"></stop>
+            <stop stop-color="#A73DD5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-2.48949813e-15%" x2="50%" y2="100%" id="linearGradient-11">
+            <stop stop-color="#FF396A" offset="0%"></stop>
+            <stop stop-color="#A73DD5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-2.48949813e-15%" x2="50%" y2="100%" id="linearGradient-12">
+            <stop stop-color="#462DE0" offset="0%"></stop>
+            <stop stop-color="#A73DD5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-2.48949813e-15%" x2="50%" y2="100%" id="linearGradient-13">
+            <stop stop-color="#462DE0" offset="0%"></stop>
+            <stop stop-color="#A73DD5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="kaleidoscope-shapes">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask"></g>
+            <g id="Group" mask="url(#mask-2)">
+                <g transform="translate(720.000000, -432.291667)">
+                    <polygon id="Fill-1-Copy-14" fill="url(#linearGradient-3)" opacity="0.617117746" transform="translate(648.300302, 296.555990) rotate(-180.000000) translate(-648.300302, -296.555990) " points="538.710247 131.812288 538.710304 461.295665 757.890356 593.111979 757.888068 0"></polygon>
+                    <polygon id="Fill-1-Copy-4" fill="url(#linearGradient-4)" points="146.256626 546.700873 65.0092329 499.797808 -8.11887367e-15 537.326809 146.255964 621.75773"></polygon>
+                    <polygon id="Fill-1-Copy-12" fill="url(#linearGradient-5)" points="607.417582 375.194732 526.17019 328.291667 461.160957 365.820668 607.41692 450.251589"></polygon>
+                    <polygon id="Fill-1-Copy-13" fill="url(#linearGradient-6)" points="378.742728 915.471143 216.247942 821.848228 86.2294764 896.759634 378.741404 1065.29167"></polygon>
+                    <polygon id="Fill-1-Copy-8" fill="url(#linearGradient-7)" points="646.006464 777.380425 646.006444 666.226891 569.305107 621.75773 569.305907 821.848228"></polygon>
+                    <polygon id="Fill-1-Copy-9" fill="url(#linearGradient-8)" points="234.868132 608.042893 234.868162 439.195381 352.063995 371.644608 352.062771 675.591602"></polygon>
+                    <polygon id="Fill-1-Copy-14" fill="url(#linearGradient-9)" transform="translate(346.108920, 601.510477) scale(1, -1) translate(-346.108920, -601.510477) " points="509.754363 570.002425 327.940165 465.020173 182.463478 549.020635 509.752882 738.000781"></polygon>
+                    <polygon id="Fill-1-Copy-15" fill="url(#linearGradient-10)" transform="translate(656.487395, 601.510477) scale(-1, 1) translate(-656.487395, -601.510477) " points="823.229476 569.34257 637.974835 462.161738 489.745314 547.921371 823.227967 740.859217"></polygon>
+                    <polygon id="Fill-1-Copy-16" fill="url(#linearGradient-11)" transform="translate(227.245637, 770.872791) scale(-1, -1) translate(-227.245637, -770.872791) " points="404.468649 736.670333 207.56943 622.710542 50.0226244 713.894288 404.467045 919.035041"></polygon>
+                    <polygon id="Fill-1-Copy-17" fill="url(#linearGradient-12)" transform="translate(438.769877, 437.388629) scale(-1, -1) translate(-438.769877, -437.388629) " points="473.071105 430.790084 434.961579 408.804272 404.468649 426.395991 473.070795 465.972985"></polygon>
+                    <polygon id="Fill-1-Copy-18" fill="url(#linearGradient-13)" opacity="0.235212054" transform="translate(565.000000, 634.791667) scale(-1, 1) rotate(180.000000) translate(-565.000000, -634.791667) " points="669 957.601503 667.545455 310.527732 462.454545 191.291667 461 1078.29167"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

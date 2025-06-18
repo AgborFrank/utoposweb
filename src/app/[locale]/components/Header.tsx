@@ -67,12 +67,12 @@ const PolygonPoSIcon = () => (
   };
   
   const mainNavLinks = [
-    { href: '/developers', label: 'about' },
+    { href: '/about', label: 'about' },
     { href: '/exchange', label: 'exchange' },
     { href: '/zk-resources', label: 'support' },
     { href: '/blog', label: 'tokenomics' },
-    { href: '/use-polygon', label: 'community', className: 'whitespace-nowrap' },
-    { href: '/company', label: 'contact' },
+    { href: '/community', label: 'community', className: 'whitespace-nowrap' },
+    { href: '/contact', label: 'contact' },
   ];
 
 export default function Header() {
@@ -89,7 +89,7 @@ export default function Header() {
   return (
     <>
       <header className="bg-black text-white sticky top-0 z-50 shadow-lg ">
-        <div className="max-w-screen-xl mx-auto px-6 sm:px-8 lg:px-12 h-16 flex justify-between items-center">
+        <div className="max-w-screen-xl mx-auto px-6 md:px-0 lg:px-0 h-16 flex justify-between items-center">
           <div className="flex justify-between items-center h-16 md:h-20">
             {/* Left: Logo */}
             <div className="flex justify-between">
@@ -233,7 +233,7 @@ export default function Header() {
             </nav>
             </div>
             {/* Right side Actions */}
-            <div className="flex items-center space-x-4 ">
+            <div className="flex items-center space-x-4 pl-6">
               
               <button
                 className="hidden md:block p-2 rounded-md hover:bg-gray-800 focus:outline-none focus-visible:ring-2 focus-visible:ring-purple-500"

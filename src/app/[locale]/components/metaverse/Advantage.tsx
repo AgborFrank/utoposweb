@@ -4,7 +4,7 @@ import Image from 'next/image';
 
 export default function DexAdvantage() {
     return (
-        <section className="bg-black p-10 flex items-center justify-center font-sans">
+        <section className="bg-black p-10 flex items-center justify-center">
       <div className="relative w-full max-w-screen-xl">
             <Image
           src="/assets/slides/2.png" 

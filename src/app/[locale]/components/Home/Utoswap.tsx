@@ -9,7 +9,7 @@ export default function UtoSwapCta() {
   return (
     // The main container for the section.
     // We add padding and a background to give it some space and context.
-    <div className="bg-black p-10 flex items-center justify-center font-sans">
+    <div className="bg-black p-10 flex items-center justify-center ">
       <div className="relative w-full max-w-screen-xl">
         {/* Background Image */}
         {/* This is a placeholder image. Replace the `src` with the actual background image

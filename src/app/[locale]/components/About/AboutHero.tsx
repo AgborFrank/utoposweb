@@ -9,24 +9,24 @@ import 'swiper/css/pagination';
 const AboutHero: React.FC = () => {
     const slideData = [
         {
-          title: "Pioneering Cameroon's Journey",
-          subtitle: "Dropme redefines travel with cutting-edge tech, ensuring safe, seamless rides that connect communities and empower every journey.",
-          desktopImageUrl: "/assets/slides/1.jpeg",
-          mobileImageUrl: "/assets/slides/1.jpeg",
+          title: "The Future of Urban IoT with AI, Blockchain, VR, and Robotics.",
+          subtitle: "Utopos is a project aimed at building futuristic cities powered by blockchain, AI, IoT, and VR technologies on a global scale.",
+          desktopImageUrl: "/assets/slides/8.jpg",
+          mobileImageUrl: "/assets/slides/8.jpg",
           learnMoreUrl: "#"
         },
         {
-          title: "Drive Your Destiny",
-          subtitle: "Join Dropme as a driver, embrace the freedom to set your own hours, and fuel your dreams with every ride.",
-          desktopImageUrl: "/assets/slides/4.jpg",
-          mobileImageUrl: "/assets/slides/4.jpg",
+          title: "First, Real Digital Dirt City",
+          subtitle: "Blockchain City is being designed and built from the ground up, incorporating best practices for disruptive technologies.",
+          desktopImageUrl: "/assets/slides/6.jpg",
+          mobileImageUrl: "/assets/slides/6.jpg",
           learnMoreUrl: "#"
         },
         {
-          title: "Mobility That Moves You",
-          subtitle: "From budget-friendly rides to premium options, Dropme tailors every trip to your style, vibe, and destination.",
-          desktopImageUrl: "/assets/slides/3.jpg",
-          mobileImageUrl: "/assets/slides/3.jpg",
+          title: "$UTOP Powers Utopos Blockchain City",
+          subtitle: "$UTOP serves as the native token for the Utopos Blockchain City, powering everyday transactions within the city",
+          desktopImageUrl: "/assets/slides/7.jpg",
+          mobileImageUrl: "/assets/slides/7.jpg",
           learnMoreUrl: "#"
         }
       ];
@@ -67,8 +67,8 @@ const AboutHero: React.FC = () => {
                 />
               </picture>
               <div className="absolute inset-0 bg-gradient-to-r from-black bg-opacity-10 flex items-center justify-start ">
-                <div className="md:pl-30 text-start text-white  md:w-[700px]  py-4 px-6 ">
-                  <h2 className="text-5xl md:text-5xl lg:text-6xl font-extrabold mb-3 whitespace-pre-wrap">
+                <div className="md:pl-30 text-start text-white  md:w-[800px]  py-4 px-6 ">
+                  <h2 className="text-5xl md:text-5xl lg:text-6xl font-semibold mb-3 whitespace-pre-wrap">
                     {slide.title}
                   </h2>
                   <p className="text-md md:text-xl max-w-2xl mx-auto mb-8">
@@ -117,7 +117,7 @@ const AboutHero: React.FC = () => {
         .hero-slider .swiper-pagination-bullet {
           width: 100px;
           height: 2px;
-          background-color: #0F9E31FF;
+          background-color: #990AF8FF;
           opacity: 1;
           margin: 0 6px;
           transition: width 0.3s, background-color 0.3s;
@@ -125,7 +125,7 @@ const AboutHero: React.FC = () => {
         .hero-slider .swiper-pagination-bullet-active {
           width: 100px;
           height: 2px;
-          background-color: #FFBB0FFF;
+          background-color: #FFFFFFFF;
         }
           .swiper-pagination-bullet {
           border-radius: 0px !important
