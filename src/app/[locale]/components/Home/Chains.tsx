@@ -110,7 +110,7 @@ export default function BlockChains(){
                 key={index}
                 className="text-center shadow-md transition-transform hover:scale-[1.03] focus-within:scale-[1.03] duration-300 ease-in-out space-y-2 bg-gradient-to-tl via-black border-1 border-purple-200/15 from-purple-600/20 to-purple-700/30 rounded-xl p-4"
               >
-                <h1 className="text-5xl font-semibold text-white">
+                <h1 className="md:text-5xl text-4xl font-semibold text-white">
                   {stat.value}
                 </h1>
                 <h3 className="font-light">{stat.title}</h3>

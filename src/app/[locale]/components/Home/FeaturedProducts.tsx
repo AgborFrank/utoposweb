@@ -108,9 +108,9 @@ const FeaturedProducts: React.FC = () => {
 
   return (
     <section className="bg-[#0a090d] py-12 md:py-24">
-      <div className="max-w-screen-xl mx-auto px-4">
+      <div className="max-w-screen-xl mx-auto px-6 md:px-0">
         {/* Section Title */}
-        <h2 className="text-3xl md:text-5xl max-w-[80%] mx-auto font-semibold text-center text-white mb-4 pb-8">
+        <h2 className="text-3xl md:text-5xl md:max-w-[80%] mx-auto font-semibold text-center text-white mb-4 pb-8">
         The World's First Smart City Powered by Blockchain Technology.
         </h2>
 
