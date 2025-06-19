@@ -13,7 +13,8 @@ const productData = {
       subtitle:
         "The Utopos Token is a Fungible, collectible novelty token used for transactions within the city and worldwide. It supports cross bridge transactions across various blockchains like Polygon PoS and Solana",
       imageUrl: "/assets/img/object.png", // Using a more relevant placeholder
-      learnMoreUrl: "https://app.uniswap.org/explore/tokens/polygon/0x0946C90058cE01d734B9e770FFCfD0C029F83709",
+      learnMoreUrl:
+        "https://app.uniswap.org/explore/tokens/polygon/0x0946C90058cE01d734B9e770FFCfD0C029F83709",
       badge: "Utopos Token",
     },
     {
@@ -28,14 +29,16 @@ const productData = {
       name: "DeFi Payment",
       subtitle: "Discover inter-city rides to get you anywhere across Cameroon",
       imageUrl: "/assets/img/pay.png",
-      learnMoreUrl: "https://app.uniswap.org/explore/tokens/polygon/0x0946C90058cE01d734B9e770FFCfD0C029F83709",
+      learnMoreUrl:
+        "https://app.uniswap.org/explore/tokens/polygon/0x0946C90058cE01d734B9e770FFCfD0C029F83709",
     },
     {
       type: "other",
       name: "Virtual Gaming",
       subtitle: "Developing aworld’s premium site for hyper-realistic v-gamin",
       imageUrl: "/assets/img/game.png",
-      learnMoreUrl: "https://app.uniswap.org/explore/tokens/polygon/0x0946C90058cE01d734B9e770FFCfD0C029F83709",
+      learnMoreUrl:
+        "https://app.uniswap.org/explore/tokens/polygon/0x0946C90058cE01d734B9e770FFCfD0C029F83709",
     },
     {
       type: "other",
@@ -43,7 +46,8 @@ const productData = {
       subtitle:
         "Utopos City provides 3D teleconferencing and a VR platform for freelancers, enhancing work in technical and creative fields.",
       imageUrl: "/assets/img/user.png",
-      learnMoreUrl: "https://app.uniswap.org/explore/tokens/polygon/0x0946C90058cE01d734B9e770FFCfD0C029F83709",
+      learnMoreUrl:
+        "https://app.uniswap.org/explore/tokens/polygon/0x0946C90058cE01d734B9e770FFCfD0C029F83709",
     },
   ],
   "Layer 2 (Earth)": [
@@ -53,27 +57,31 @@ const productData = {
       subtitle:
         "Earth is a non-asset-backed, non-fungible token(NFT) compliant with the ERC-721 standard. Earth represents ownership of a fractional, digitized 99-year lease on the land underneath the City.",
       imageUrl: "https://placehold.co/800x600/f8f9fa/333?text=Xiaomi+TV",
-      learnMoreUrl: "https://app.uniswap.org/explore/tokens/polygon/0x0946C90058cE01d734B9e770FFCfD0C029F83709",
+      learnMoreUrl:
+        "https://app.uniswap.org/explore/tokens/polygon/0x0946C90058cE01d734B9e770FFCfD0C029F83709",
       badge: "Earth Token",
     },
     {
       type: "other",
       name: "Metaverse",
-      subtitle: "Snapdragon® 8 Elite Mobile Platform",
+      subtitle: "Explor the Utopos metaverse (Utoverse) with the Earth token",
       imageUrl: "https://placehold.co/400x400/f8f9fa/333?text=Xiaomi+15+Ultra",
-      learnMoreUrl: "https://app.uniswap.org/explore/tokens/polygon/0x0946C90058cE01d734B9e770FFCfD0C029F83709",
+      learnMoreUrl:
+        "https://app.uniswap.org/explore/tokens/polygon/0x0946C90058cE01d734B9e770FFCfD0C029F83709",
     },
     {
       type: "other",
       name: "Earn Points & Rewards",
-      subtitle: "Snapdragon® 8 Elite Mobile Platform",
+      subtitle:
+        "Play competitive games and earn UTOP to unlock exclusive rewards",
       imageUrl: "https://placehold.co/400x400/f8f9fa/333?text=Xiaomi+15+Ultra",
-      learnMoreUrl: "https://app.uniswap.org/explore/tokens/polygon/0x0946C90058cE01d734B9e770FFCfD0C029F83709",
+      learnMoreUrl:
+        "https://app.uniswap.org/explore/tokens/polygon/0x0946C90058cE01d734B9e770FFCfD0C029F83709",
     },
     {
       type: "other",
       name: "Fastest Payouts",
-      subtitle: "Snapdragon® 8 Elite Mobile Platform",
+      subtitle: "Enjoy the fastes payout within the Utopos ecosystem",
       imageUrl: "https://placehold.co/400x400/f8f9fa/333?text=Xiaomi+15+Ultra",
       learnMoreUrl: "#",
     },

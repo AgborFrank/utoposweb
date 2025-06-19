@@ -13,8 +13,8 @@ const footerSections = [
         title: 'Ecosystem',
         links: [
             { label: 'Utoswap', url: 'https://www.utoswap.com/en' },
-            { label: 'Gaming Hub', url: 'https://www.kingfi.io' },
-            { label: 'Payment Gateway', url: '#' },
+            { label: 'Gaming Hub', url: '/gaming' },
+            { label: 'Payment Gateway', url: '/payment' },
             { label: 'Utopos Bridge', url: '#' },
             { label: 'Token Extensions', url: '#' },
             { label: 'Metaverse', url: '#' },
@@ -39,8 +39,6 @@ const footerSections = [
     {
         title: 'Protocol',
         links: [
-            { label: 'Vote', url: '#' },
-            { label: 'Governance', url: '#' },
             { label: 'Developers', url: '#' },
             { label: 'Community', url: '#' },
             { label: 'Documentation', url: '#' },
