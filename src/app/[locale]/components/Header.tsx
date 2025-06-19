@@ -38,8 +38,8 @@ const PolygonPoSIcon = () => (
         description: "Swap UTOP tokens on Polygon PoS",
       },
       {
-        href: "/solutions/agg-layer-cdk",
-        icon: "CDK",
+        href: "/payment",
+        icon: "CD",
         title: "Payment Gateway",
         description: "Merchant payment gateway for DeFi payments",
       },
@@ -69,7 +69,7 @@ const PolygonPoSIcon = () => (
   const mainNavLinks = [
     { href: '/about', label: 'about' },
     { href: '/exchange', label: 'exchange' },
-    { href: '/zk-resources', label: 'support' },
+    { href: '/payment', label: 'payment' },
     { href: '/blog', label: 'tokenomics' },
     { href: '/community', label: 'community', className: 'whitespace-nowrap' },
     { href: '/contact', label: 'contact' },
