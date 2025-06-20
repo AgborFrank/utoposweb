@@ -15,7 +15,7 @@ const footerSections = [
             { label: 'Utoswap', url: 'https://www.utoswap.com/en' },
             { label: 'Gaming Hub', url: '/gaming' },
             { label: 'Payment Gateway', url: '/payment' },
-            { label: 'Utopos Bridge', url: '#' },
+            { label: 'Utopos Bridge', url: '/bridge' },
             { label: 'Token Extensions', url: '#' },
             { label: 'Metaverse', url: '#' },
             { label: 'NFT Marketplace', url: '#' },

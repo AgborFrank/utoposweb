@@ -46,22 +46,22 @@ const PolygonPoSIcon = () => (
     ],
     rightColumn: [
       {
-        href: "/solutions/polygon-pos",
+        href: "/bridge",
         icon: <PolygonPoSIcon />,
-        title: "Polygon PoS",
-        description: "An EVM enabled sidechain",
+        title: "Utopos Bridge",
+        description: "Bridge Polygon and Solana tokens",
       },
       {
         href: "/solutions/polygon-zkevm",
         icon: <PolygonZkEvmIcon />,
-        title: "Polygon zkEVM",
+        title: "NFT Market",
         description: "An EVM equivalent, open-source zk-Rollup",
       },
       {
         href: "/solutions/miden",
         icon: <MidenIcon />,
-        title: "Miden",
-        description: "Zk-optimized rollup with client-side proving",
+        title: "Gaming Hub",
+        description: "Find games to play and earn UTOP",
       },
     ],
   };
@@ -141,11 +141,11 @@ export default function Header() {
                         >
                           <div className="flex flex-col md:items-center md:space-x-6">
                             <Image
-                              src=""
+                              src="/assets/img/solana.jpg"
                               alt="Aggregation Layer illustration"
                               width={200}
                               height={116}
-                              className="rounded-lg flex-shrink-0"
+                              className="rounded-lg w-full object-cover flex-shrink-0"
                             />
                             <div className="mt-4 md:mt-0 max-w-[270px]">
                               <h3 className="text-lg font-bold leading-tight">
@@ -204,10 +204,10 @@ export default function Header() {
                             </div>
                             <div>
                               <h4 className="font-semibold text-white leading-tight">
-                                {t(link.title)}
+                                {link.title}
                               </h4>
                               <p className="text-gray-400 text-sm leading-snug">
-                                {t(link.description)}
+                                {link.description}
                               </p>
                             </div>
                           </a>
