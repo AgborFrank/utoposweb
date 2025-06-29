@@ -92,7 +92,7 @@ export default function BlockChains(){
                     Solscan
                   </Link>
                   <Link
-                    href="https://utoswap.com/"
+                    href="https://raydium.io/swap/?inputMint=sol&outputMint=Hk5938VDYidqm4KeTenbkrADbD5FSqeduRKEYNaGQHZS"
                     target="_blank"
                     className="bg-white/10 hover:bg-white/15 text-white rounded-full px-4 py-2 text-sm"
                   >

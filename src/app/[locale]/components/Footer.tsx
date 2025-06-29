@@ -17,7 +17,7 @@ const footerSections = [
             { label: 'Payment Gateway', url: '/payment' },
             { label: 'Utopos Bridge', url: '/bridge' },
             { label: 'Token Extensions', url: '#' },
-            { label: 'Metaverse', url: '#' },
+            { label: 'Utoposverse', url: '#' },
             { label: 'NFT Marketplace', url: '#' },
             { label: 'DeFi Wallet', url: '#' },
         ]
@@ -99,10 +99,10 @@ const Footer: React.FC = () => {
                             </button>
                         </form>
                         <div className="follow flex md:flex-row flex-col mt-4 gap-3 overflow-hidden">
-                            <Link href="" target="_blank">
+                            <Link href="https://explorer.solana.com/address/Hk5938VDYidqm4KeTenbkrADbD5FSqeduRKEYNaGQHZS" target="_blank">
                               <Image src="/assets/img/solana.svg" alt="Google Play" width={120} height={50} className='w-[120px] h-[40px] object-fit' />
                             </Link>
-                            <Link href="" target="_blank">
+                            <Link href="https://polygonscan.com/token/0x0946C90058cE01d734B9e770FFCfD0C029F83709" target="_blank">
                             <Image src="/assets/img/full-polygon-logo.png" alt="Apple Store"  width={120} height={50} className='w-[120px] h-[40px] object-contain' />
                             </Link>
                         </div>

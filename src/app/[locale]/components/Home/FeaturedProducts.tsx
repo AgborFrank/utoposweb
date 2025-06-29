@@ -56,7 +56,7 @@ const productData = {
       name: "Earth Token (ERTH)",
       subtitle:
         "Earth is a non-asset-backed, non-fungible token(NFT) compliant with the ERC-721 standard. Earth represents ownership of a fractional, digitized 99-year lease on the land underneath the City.",
-      imageUrl: "https://placehold.co/800x600/f8f9fa/333?text=Xiaomi+TV",
+      imageUrl: "/assets/img/icons.png",
       learnMoreUrl:
         "https://app.uniswap.org/explore/tokens/polygon/0x0946C90058cE01d734B9e770FFCfD0C029F83709",
       badge: "Earth Token",
@@ -92,7 +92,7 @@ const productData = {
       name: "Administration Layer - Service Token (SERV)",
       subtitle:
         "The Service Token governs the Administrative layer and will be used for Consensus & voting, referendum fees, staking and many other applications.",
-      imageUrl: "https://placehold.co/800x600/f8f9fa/333?text=Scooter",
+      imageUrl: "/assets/img/icons.png",
       learnMoreUrl: "#",
       badge: "Service Token",
     },
